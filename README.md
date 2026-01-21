@@ -23,3 +23,8 @@ This demo replaces abstract examples (like dice rolls) with a **real-world AI us
 ```bash
 docker build -t sentiment-demo .
 docker run -p 5000:5000 sentiment-demo
+
+
+
+<img width="920" height="810" alt="image" src="https://github.com/user-attachments/assets/4acf1539-803f-4d08-9031-904330a827bc" />
+
