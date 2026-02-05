@@ -35,7 +35,7 @@ HTML_TEMPLATE = '''
 <!DOCTYPE html>
 <html>
 <head>
-    <title>🧠 Alibaba Cloud Sentiment Analyzer - Jawad Shah</title>
+    <title>🧠 Alibaba Cloud Sentiment Analyzer - Jawad Ali Shah</title>
     <meta charset="utf-8">
     <style>
         body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; max-width: 800px; margin: 30px auto; padding: 0 20px; background: #f8f9fa; }
